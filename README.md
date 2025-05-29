@@ -5,7 +5,7 @@ Raven Loader Is Type Of RAT/Loader Lets You Handle All Your Clients In A Most St
 
 ![raven](https://github.com/user-attachments/assets/f33ba663-f253-4ee5-a61c-8d585724f031)
 
-Telegram : https://t.me/ZeroTraceD3V
+Telegram : https://t.me/ZeroTraceOfficial
 
 ~ Features
 
